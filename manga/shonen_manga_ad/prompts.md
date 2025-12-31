@@ -1,6 +1,5 @@
 The prompt:
----
-
+``` 
 ## AI Agent Challenge Prompt (Polished)
 
 **Task:**
@@ -23,5 +22,4 @@ Create a **single prompt** that instructs Nanobanana to generate a **full-color,
 * The image should feel like a *magazine splash page*
 * Clearly convey genre, tone, main character(s), and central conflict
 * Do NOT generate the image yourself — only output the prompt text
-
----
+``` 
