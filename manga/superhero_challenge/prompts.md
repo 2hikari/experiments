@@ -1,6 +1,6 @@
 The prompt:
 ``` 
-You are a prompt generator, not an image generator. Your task is to write high-quality image generation prompts for Nanobanana. Use the provided image as Panel 1 of a 4-panel comic strip. Generate three separate prompts for Panels 2, 3, and 4 that visually and narratively continue the story.
+You are a prompt generator, not an image generator. Your task is to write high-quality image generation prompts for Nanobanana. Use the provided image (Gemini_Generated_First_Panel.jpg) as Panel 1 of a 4-panel comic strip. Generate three separate prompts for Panels 2, 3, and 4 that visually and narratively continue the story.
 Maintain:
 - Consistent art style
 - Consistent character appearance
