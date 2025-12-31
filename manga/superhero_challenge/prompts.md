@@ -17,6 +17,5 @@ Prioritize:
 -Visual comedy
 -Comedic timing
 -Surprise or contrast in Panels 3–4
-``` 
-A clear punchline in the final panel
+-A clear punchline in the final panel
 ``` 
