@@ -19,3 +19,12 @@ Prioritize:
 -Surprise or contrast in Panels 3–4
 -A clear punchline in the final panel
 ``` 
+
+The response from Gemini (Thinking)
+``` 
+Panel 2 Prompt: Comic panel 2, continuing from image_0.png in the same art style and setting. The superhero now looks incredibly nervous, looking down at his feet with sweat drops on his forehead, his hands anxiously gripping the edges of his cape. The girl on the bed leans forward slightly, her expression shifting from surprise to intense anticipation. A speech bubble above the superhero reads, "...It's really embarrassing."
+
+Panel 3 Prompt: Comic panel 3, same art style and setting. The superhero has stooped down slightly and sheepishly pulled up the blue pant legs of his costume to just below his knees. Revealed beneath the bulky torso are ridiculously skinny, pale, twig-like calves and ankles, contrasting sharply with his upper body. The girl's eyes are wide, her jaw dropped in sheer disbelief, staring at his legs. There is no dialogue, just the visual reveal.
+
+Panel 4 Prompt: Comic panel 4, same art style and setting. The girl is now slouching on the bed, looking completely unimpressed and disappointed, with one hand over her face in a facepalm gesture. The superhero stands awkwardly, still exposing his skinny legs, gesturing defensively with one hand. A speech bubble coming from the girl says, "You skip leg day?" A smaller, jagged speech bubble from the distressed superhero says, "I FLY everywhere, okay?!"
+``` 
