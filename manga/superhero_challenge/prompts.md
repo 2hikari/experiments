@@ -45,3 +45,12 @@ The response from Gemini (Graph of Thoughts)
   A comic book panel, wide angle shot of the bedroom. The room is now empty of people. The pink curtains on the window are blowing wildly inward, indicating a rapid exit. Only a single red superhero boot is visible just disappearing out of the window frame. The girl is sitting alone on the bed, staring blankly at the window. The mood is comedic silence.
   **Speech Bubble:**  Jagged shout bubble from outside the window: "YOU SAW NOTHING!"
 ``` 
+
+The extension I used for this workflow is Google Antigravity (basically free):
+https://got-extension.pages.dev/
+
+GoT Ideas Extension – Quick Start Guide:
+https://www.youtube.com/watch?v=ZPZeiHYKAM4
+
+All prompts used in this experiment are available here:
+https://github.com/2hikari/experiments/edit/main/manga/superhero_challenge/prompts.md
