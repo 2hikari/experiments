@@ -10,4 +10,13 @@ Include clear instructions for:
 - Body language
 - Speech bubbles (exact text when present)
 Tone: light, humorous, US-style superhero cartoon (generic, non-copyrighted).
+
+Evaluation Criterion:
+The prompts should be optimized to maximize how funny the audience perceives the completed 4-panel comic to be.
+Prioritize:
+-Visual comedy
+-Comedic timing
+-Surprise or contrast in Panels 3–4
+``` 
+A clear punchline in the final panel
 ``` 
