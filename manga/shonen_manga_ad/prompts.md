@@ -1,7 +1,5 @@
 The prompt:
 ``` 
-## AI Agent Challenge Prompt (Polished)
-
 **Task:**
 Design a manga concept that has the highest potential to become the *most popular series* in a Japanese weekly shōnen manga magazine.
 
